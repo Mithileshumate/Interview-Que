@@ -1,0 +1,23 @@
+#btn, #btn1,#btn2{
+    color: red;
+    background-color: aliceblue;
+    margin-left: 45vw;
+    border-radius: 10px;
+    text-align: center;
+    cursor: pointer;
+}
+.text{
+    text-align: center;
+}
+#heading , #heading1{
+    text-align: center;
+}
+#min{
+    margin-top: -19px;
+    margin-left: 30px;
+}
+#sec{
+    margin-top: -19px;
+    margin-left: 60px;
+}
+
